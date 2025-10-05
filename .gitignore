@@ -1,0 +1,17 @@
+# Sanal Ortam Klasörleri
+.venv/
+venv/
+env/
+
+# Ultralytics (indirilen modelleri ve cache'i içerebilir)
+ultralytics/
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editör Ayarları
+.vscode/
+.idea/
